@@ -9,7 +9,7 @@ namespace ConsoleApp2
         {
             int eded = 0, reqemsayi = 0;
             Console.Write("ededi  yazin :");
-            eded = Convert.ToInt32(Console.ReadLine());
+            eded = int.Parse(Console.ReadLine());
             while (eded > 0)
             {
                 eded = eded / 10;
@@ -20,3 +20,23 @@ namespace ConsoleApp2
         }
     }
 }
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+        
+
+       
+        
+    
+
