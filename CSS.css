@@ -1,0 +1,37 @@
+.pre{
+
+    display: inline-block;
+    
+}
+.imageS {
+   display: inline-block;
+   margin-left: 1000px;
+   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+   
+}
+.education ul li{
+  
+    list-style-type: none;
+}
+.education1 ul li{
+    list-style-type: none;
+}
+.education{
+    display: inline-block;
+}
+.education1{
+    display: inline-block;
+}
+#Example p{
+    margin-left: 200px;
+}
+#language h2{
+display: inline-block;
+}
+#language p{
+    display: inline-block;
+    margin-left: 20px;
+}
+.son p{
+    margin-left: 130px;
+}
