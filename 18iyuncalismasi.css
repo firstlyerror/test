@@ -1,0 +1,38 @@
+body{
+    background-image: url(sekil/sunset-for-front-room-i.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.div{
+   background-image: url(sekil/pexels-photo-3768263.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-left: 600px;
+   margin-top: 150px;
+   height: 550px;
+   width: 300px;
+   box-shadow: 5px 10px 5px 5px #2b8fd2ae;
+}
+form{
+    margin:60px;
+    
+
+}
+form label{
+    color: white;
+}
+#emailerror{
+    color: red;
+}
+#Nameerror{
+    color: rgb(8, 0, 255);
+
+}
+#Surnameerror{
+    color: rgb(38, 0, 255);
+}
+#passwordp{
+    color: blue;
+}
